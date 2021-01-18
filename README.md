@@ -27,3 +27,9 @@
 * SinGAN: Learning a Generative Model from a Single Natural Image
 * Weakly Supervised Visual Semantic Parsing	
 * Semantic Image Manipulation Using Scene Graphs	
+
+## 1.11 - 1.17:
+* Editing in Style: Uncovering the Local Semantics of GANs
+* Unsupervised Learning of Probably Symmetric Deformable 3D Objects From Images in the Wild
+* Semantically Multi-Modal Image Synthesis	
+* SinGAN: Learning a Generative Model from a Single Natural Image
