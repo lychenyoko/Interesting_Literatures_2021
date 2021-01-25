@@ -1,4 +1,4 @@
-# This repo logs interesting works in deep learning, computer vision, and machine learning.  
+# This repo logs interesting works with deep learning and machine learning for computer vision or computer architecture.  
 
 ## 2020.12.28 - 1.3
 * Disentangled Image Generation Through Structured Noise Injection
@@ -33,3 +33,11 @@
 * Unsupervised Learning of Probably Symmetric Deformable 3D Objects From Images in the Wild
 * Semantically Multi-Modal Image Synthesis	
 * SinGAN: Learning a Generative Model from a Single Natural Image
+
+## 1.18 - 1.24:
+* Learning Memory Access Patterns
+* Semantic Locality and Context-based Prefetching Using Reinforcement Learning
+* A Neural Network Prefetcher for Arbitrary Memory Access Patterns
+* Data Cache Prefetching with Perceptron Learning
+* An Imitation Learning Approach for Cache Replacement
+* Applying Deep Learning to the Cache Replacement Problem
