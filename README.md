@@ -41,3 +41,8 @@
 * Data Cache Prefetching with Perceptron Learning
 * An Imitation Learning Approach for Cache Replacement
 * Applying Deep Learning to the Cache Replacement Problem
+
+## 2.1 - 2.7:
+* How transferable are features in deep neural networks?
+* Learning and Transferring Mid-Level Image Representations using Convolutional Neural Networks
+* Transferring GANs: generating images from limited data
