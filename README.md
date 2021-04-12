@@ -46,3 +46,8 @@
 * How transferable are features in deep neural networks?
 * Learning and Transferring Mid-Level Image Representations using Convolutional Neural Networks
 * Transferring GANs: generating images from limited data
+
+## 4.5 - 4.11:
+* Designing an Encoder for StyleGAN Image Manipulation
+* StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation
+* StyleRig: Rigging StyleGAN for 3D Control over Portrait Images
