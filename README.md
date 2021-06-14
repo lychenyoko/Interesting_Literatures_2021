@@ -51,3 +51,8 @@
 * Designing an Encoder for StyleGAN Image Manipulation
 * StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation
 * StyleRig: Rigging StyleGAN for 3D Control over Portrait Images
+
+## 6.7 - 6.13:
+* Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning
+* Lifting 2D StyleGAN for 3D-Aware Face Generation
+* StyleRig: Rigging StyleGAN for 3D Control over Portrait Images
