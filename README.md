@@ -60,3 +60,6 @@
 ## 6.14 - 6.20:
 * GIF: Generative Interpretable Faces
 * Style and Pose Control for Image Synthesis of Humans from a Single Monocular View
+
+## 6.21 - 6.27:
+* CONFIG: Controllable Neural Face Image Generation
