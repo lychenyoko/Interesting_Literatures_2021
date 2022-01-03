@@ -63,3 +63,7 @@
 
 ## 6.21 - 6.27:
 * CONFIG: Controllable Neural Face Image Generation
+
+## 12.20 - 2022.1.2:
+* Alias-Free Generative Adversarial Networks (StyleGAN3)
+* Representing Scenes as Compositional Generative Neural Feature Fields
