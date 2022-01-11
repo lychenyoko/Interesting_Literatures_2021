@@ -67,3 +67,6 @@
 ## 12.20 - 2022.1.2:
 * Alias-Free Generative Adversarial Networks (StyleGAN3)
 * Representing Scenes as Compositional Generative Neural Feature Fields
+
+## 1.3 - 1.9:
+* EG3D: Efficient Geometry-aware 3D Generative Adversarial Networks
