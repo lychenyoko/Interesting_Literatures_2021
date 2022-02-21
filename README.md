@@ -70,3 +70,6 @@
 
 ## 1.3 - 1.9:
 * EG3D: Efficient Geometry-aware 3D Generative Adversarial Networks
+
+## 2.14 - 2.20:
+* Perceptron-Based Prefetch Filtering
